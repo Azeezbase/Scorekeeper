@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:17:1-35:12
+INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:17:1-35:12
+INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:17:1-35:12
+INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:17:1-35:12
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\749be3b1e497c836ee0a539a5386500d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\533e3230068852a8138cbda28a6a768f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\bbc9d970f0933bbe8508af752c7ca61b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\0335b039cbeb0ca8e1f8a08cfdbefa0d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\603965e0833efb4053ec6b2a68d26fea\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\bf822f9e9192f0c28b29eb78565eeec3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\5ea5f7c55cdbc2f7444ddfa98c2a4eef\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\7522bba97024e1d784741c1403b70cec\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\9fbb726a8f1f77b1a249fe96cbc9aa1d\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:17:1-35:12
+INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:17:1-35:12
+INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:17:1-35:12
+	package
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:18:5-48
+		INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:17:1-35:12
+		INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:17:1-35:12
+		INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:20:5-33:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\749be3b1e497c836ee0a539a5386500d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\749be3b1e497c836ee0a539a5386500d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\533e3230068852a8138cbda28a6a768f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\533e3230068852a8138cbda28a6a768f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\bbc9d970f0933bbe8508af752c7ca61b\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\bbc9d970f0933bbe8508af752c7ca61b\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\0335b039cbeb0ca8e1f8a08cfdbefa0d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\0335b039cbeb0ca8e1f8a08cfdbefa0d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\603965e0833efb4053ec6b2a68d26fea\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\603965e0833efb4053ec6b2a68d26fea\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\bf822f9e9192f0c28b29eb78565eeec3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\bf822f9e9192f0c28b29eb78565eeec3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\5ea5f7c55cdbc2f7444ddfa98c2a4eef\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\5ea5f7c55cdbc2f7444ddfa98c2a4eef\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\7522bba97024e1d784741c1403b70cec\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\7522bba97024e1d784741c1403b70cec\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\9fbb726a8f1f77b1a249fe96cbc9aa1d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\9fbb726a8f1f77b1a249fe96cbc9aa1d\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.omobolaji.scorekeeper.MainActivity
+ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:26:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\749be3b1e497c836ee0a539a5386500d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\749be3b1e497c836ee0a539a5386500d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\533e3230068852a8138cbda28a6a768f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\533e3230068852a8138cbda28a6a768f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\bbc9d970f0933bbe8508af752c7ca61b\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\bbc9d970f0933bbe8508af752c7ca61b\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\0335b039cbeb0ca8e1f8a08cfdbefa0d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\0335b039cbeb0ca8e1f8a08cfdbefa0d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\603965e0833efb4053ec6b2a68d26fea\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\603965e0833efb4053ec6b2a68d26fea\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\bf822f9e9192f0c28b29eb78565eeec3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\bf822f9e9192f0c28b29eb78565eeec3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\5ea5f7c55cdbc2f7444ddfa98c2a4eef\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\5ea5f7c55cdbc2f7444ddfa98c2a4eef\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\7522bba97024e1d784741c1403b70cec\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\7522bba97024e1d784741c1403b70cec\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\9fbb726a8f1f77b1a249fe96cbc9aa1d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\9fbb726a8f1f77b1a249fe96cbc9aa1d\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Omobolaji\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\749be3b1e497c836ee0a539a5386500d\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Omobolaji\AndroidStudioProjects\Scorekeeper\app\src\main\AndroidManifest.xml
